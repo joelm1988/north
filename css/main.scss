@@ -297,14 +297,15 @@ a {
 	font-weight: 400;
 	font-size: 1rem;
 	line-height: 1em;
+	letter-spacing: 1.5px;
 	color: $north-grey-1;
 	padding: 1.25em 1.75em;
 	border: 2px solid $north-grey-1;
 	transition: 0.25s;
 	&:hover {
 		background-color: $north-black;
-		color: white;
 		border-color: $north-black;
+		color: white;
 		transition: 0.25s;
 	}
 }
@@ -322,12 +323,9 @@ a {
 	.intro {
 		width: 100%;
 		position: absolute;
-		top: 33.33333%;
+		top: 50%;
+		transform: translateY(-50%);
 		text-align: center;
-		@media (min-width: 768px) {
-			top: 50%;
-			transform: translateY(-50%);
-		}
 		.wrapper {
 			display: inline-block;
 		}
@@ -498,6 +496,12 @@ a {
 			text-align: left;
 			h2 {
 				margin-left: -2rem;
+			}
+		}
+		.cta {
+			margin-top: 1rem;
+			@media (min-width: 768px) {
+				margin-top: 1.25rem;
 			}
 		}
 	}
