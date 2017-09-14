@@ -102,6 +102,16 @@
 		"oAP": "\/build\/index.html",
 		"oF": 0
 		},
+	"\/js\/footer-reveal.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/build\/js\/footer-reveal-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/js\/jquery-1.11.3.min.js": {
 		"ft": 64,
 		"ma": 0,

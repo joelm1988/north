@@ -5,6 +5,11 @@ $("#toggle").click(function() {
   $(".nav").toggleClass("on");
   $("html, body").toggleClass("no-scroll");
 });
+
+
+$('#footer').footerReveal();
+
+
 /*
 $(function() {
    $(window).scroll(function () {
