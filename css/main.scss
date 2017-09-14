@@ -21,7 +21,7 @@ html {
   box-sizing: inherit;
 }
 body {
-	background-color: white;
+	background-color: black;
 }
 .no-scroll {
 	overflow: hidden;
@@ -57,6 +57,16 @@ body {
 	@media (min-width: 992px) {
 		padding: 0 2rem;
 	}
+	&.narrow {
+		@media (min-width: 992px) {
+	    max-width: 85%;
+	    margin: auto;
+	  }
+		@media (min-width: 1441px) {
+	    max-width: 75%;
+	    margin: auto;
+	  }
+	}
 }
 .first {
 	margin-top: 0 !important;
@@ -73,6 +83,9 @@ html {
 	}
 	@media (min-width: 992px) {
 		font-size: 20px;
+	}
+	@media (min-width: 1441px) {
+		font-size: 22px;
 	}
 }
 h1 {
