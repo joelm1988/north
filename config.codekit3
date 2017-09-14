@@ -54,6 +54,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/css\/project.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/build\/css\/project.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/fonts\/din-condensed\/349E1A_0_0.eot": {
 		"ft": 8192,
 		"oA": 2,
@@ -131,6 +144,12 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"\/project.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/project.html",
+		"oF": 0
 		},
 	"\/reference\/logo.rtf": {
 		"ft": 8192,
@@ -1551,7 +1570,7 @@
 	"externalServerAddress": "http:\/\/localhost:8080",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
-	"jsCheckerReservedNamesString": "",
+	"jsCheckerReservedNamesString": "$",
 	"jsHintFlags2": {
 		"asi": {
 			"active": 0,
