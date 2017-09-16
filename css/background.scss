@@ -2,47 +2,77 @@
 @import "variables.scss";
 
 
-.location {
-}
-
 .site-wrapper {
+  background-color: $north-black;
 }
 
 
+/* IMAGE */
+.image {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  img {
+    display: block;
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    transition: 0.5s;
+  }
+  #sydney {
+    opacity: 0;
+    &.show {
+      opacity: 1;
+    }
+  }
+}
+.overlay {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  background-color: $north-black;
+  top: 0;
+  opacity: .5;
+}
+
+/* NAV */
+.nav {
+  position: relative;
+}
+
+
+/* STORY */
 .background {
   position: relative;
-  height: 200vh;
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-  &.one {
-    background-image: url(/images/background/newcastle.jpg);
-  }
-  &.two {
-    background-image: url(/images/background/sydney.jpg);
-  }
-  .nav {
-    position: relative;
-  }
   .story {
-    background-color: transparent;
-    &::after {
-      content: "";
-      display: table;
-      clear: both;
+    padding: 25vmin 0 35vmin;
+    @media (min-width: 992px) {
+      padding: 15vmin 0 30vmin;
+    }
+    @media (min-width: 1441px) {
+      padding: 30vmin 0 45vmin;
     }
     h2, h4 {
       color: white;
     }
     .newcastle {
-      position: absolute;
-      top: 50vh;
-      transform: translateY(-50%);
     }
-    .sydney {
-      position: absolute;
-      bottom: 50vh;
-      transform: translateY(50%);
+    .line {
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 2px;
+      height: 50vmin;
+      background-color: white;
+      margin: 2.5rem 0;
     }
   }
+}
+
+
+/* FOOTER */
+.footer {
+  position: relative;
 }

@@ -7,18 +7,16 @@ $("#toggle").click(function() {
 });
 
 
-$('#footer').footerReveal();
-
-
-/*
 $(function() {
    $(window).scroll(function () {
-      if ($(this).scrollTop() > $(window).height()*1) {
-         $(".nav").addClass('show');
+      if ($(this).scrollTop() > $(window).height()*0.5) {
+				 $("#sydney").addClass('show');
       }
       if ($(this).scrollTop() < $(window).height()*0.5) {
-         $(".nav").removeClass('show');
+         $("#sydney").removeClass('show');
       }
    });
 });
-*/
+
+
+$('#footer').footerReveal();
