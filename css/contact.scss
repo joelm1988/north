@@ -1,0 +1,68 @@
+@charset "UTF-8";
+@import "variables.scss";
+
+
+.hero {
+  height: 100vh;
+  .nav {
+    .north-logo {
+      fill: $north-black;
+    }
+    #toggle div {
+      background-color: $north-black;
+    }
+    .nav-menu {
+      color: $north-black;
+    }
+  }
+  .info {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    @media (min-width: 992px) {
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+    .details {
+      display: flex;
+      align-items: flex-start;
+      padding: 3rem 0 0;
+      @media (min-width: 992px) {
+        padding: 1.5rem 0 0 3rem;
+      }
+      div {
+        display: inline-block;
+      }
+      .bar {
+        margin: 7px .75rem 0 0;
+        @media (min-width: 992px) {
+          margin-bottom: 16px;
+        }
+      }
+      h4 {
+        margin: 0;;
+      }
+      p {
+        font-size: 1.25rem;
+        line-height: 0.5em;
+        margin: 0;
+        margin-top: 1rem;
+        color: $north-black;
+      }
+      a {
+        &::after {
+  				content: '';
+  		    display: inline-block;
+  		    width: 100%;
+  		    height: 2px;
+  		    background: $north-grey-1;
+  				opacity: 0;
+  		    transition: opacity .3s;
+  			}
+  			&:hover::after {
+  				opacity: 1;
+  			}
+      }
+    }
+  }
+}

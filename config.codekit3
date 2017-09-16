@@ -21,6 +21,12 @@
 		"oAP": "\/build\/build",
 		"oF": 0
 		},
+	"\/contact.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/contact.html",
+		"oF": 0
+		},
 	"\/css\/background.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -30,6 +36,19 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/build\/css\/background.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/css\/contact.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/build\/css\/contact.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -169,7 +188,7 @@
 		},
 	"\/images\/background\/newcastle.jpg": {
 		"ft": 16384,
-		"iS": 4058895,
+		"iS": 514920,
 		"oA": 0,
 		"oAP": "\/build\/images\/background\/newcastle.jpg",
 		"oF": 0,
@@ -179,7 +198,7 @@
 		},
 	"\/images\/background\/sydney.jpg": {
 		"ft": 16384,
-		"iS": 2842475,
+		"iS": 454988,
 		"oA": 0,
 		"oAP": "\/build\/images\/background\/sydney.jpg",
 		"oF": 0,
