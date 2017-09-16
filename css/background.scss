@@ -1,0 +1,48 @@
+@charset "UTF-8";
+@import "variables.scss";
+
+
+.location {
+}
+
+.site-wrapper {
+}
+
+
+.background {
+  position: relative;
+  height: 200vh;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  &.one {
+    background-image: url(/images/background/newcastle.jpg);
+  }
+  &.two {
+    background-image: url(/images/background/sydney.jpg);
+  }
+  .nav {
+    position: relative;
+  }
+  .story {
+    background-color: transparent;
+    &::after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+    h2, h4 {
+      color: white;
+    }
+    .newcastle {
+      position: absolute;
+      top: 50vh;
+      transform: translateY(-50%);
+    }
+    .sydney {
+      position: absolute;
+      bottom: 50vh;
+      transform: translateY(50%);
+    }
+  }
+}

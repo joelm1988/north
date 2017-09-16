@@ -9,11 +9,30 @@
 	],
 "creatorBuild": "25900",
 "files": {
+	"\/background.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/background.html",
+		"oF": 0
+		},
 	"\/build": {
 		"ft": 65536,
 		"oA": 1,
 		"oAP": "\/build\/build",
 		"oF": 0
+		},
+	"\/css\/background.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/build\/css\/background.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
 	"\/css\/din-condensed.scss": {
 		"aP": 0,
@@ -147,6 +166,26 @@
 		"oA": 2,
 		"oAP": "\/build\/fonts\/hk-grotesk\/SIL Open Font License.txt",
 		"oF": 0
+		},
+	"\/images\/background\/newcastle.jpg": {
+		"ft": 16384,
+		"iS": 4058895,
+		"oA": 0,
+		"oAP": "\/build\/images\/background\/newcastle.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/images\/background\/sydney.jpg": {
+		"ft": 16384,
+		"iS": 2842475,
+		"oA": 0,
+		"oAP": "\/build\/images\/background\/sydney.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"\/index.html": {
 		"ft": 8192,
