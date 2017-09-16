@@ -215,30 +215,40 @@
 	"\/js\/footer-reveal.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/build\/js\/footer-reveal-min.js",
-		"oF": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/build\/js\/footer-reveal.js",
+		"oF": 3,
 		"sC": 3,
 		"tS": 0
 		},
 	"\/js\/jquery-1.11.3.min.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/build\/js\/jquery-1.11.3.min-min.js",
-		"oF": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/build\/js\/jquery-1.11.3.min.js",
+		"oF": 3,
 		"sC": 3,
 		"tS": 0
 		},
 	"\/js\/scripts.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/build\/js\/scripts-min.js",
-		"oF": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/build\/js\/scripts.js",
+		"oF": 3,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/scrollreveal.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/build\/js\/scrollreveal.js",
+		"oF": 3,
 		"sC": 3,
 		"tS": 0
 		},
@@ -280,10 +290,10 @@
 	"displayValue": "wearenorth.design",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_gray",
-	"lastBuiltDate": 526371010
+	"lastBuiltDate": 527256991
 	},
 "projectSettings": {
-	"abortBuildOnError": 1,
+	"abortBuildOnError": 0,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
