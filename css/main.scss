@@ -37,6 +37,9 @@ body {
 .site-wrapper {
 	background-color: white;
 }
+.initialLoadOne, .initialLoadTwo, .initialLoadThree {
+	opacity: 0;
+}
 
 /* STRUCTURE */
 .container {

@@ -47,7 +47,7 @@
 		position: absolute;
 		left: 50%;
 		bottom: 0;
-		display: none;
+		display: none !important;
 		transform-origin: left bottom;
 		transform: rotate(-90deg) translateY(50%);
 		@media (min-width: 768px) {
