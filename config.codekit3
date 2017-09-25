@@ -21,6 +21,12 @@
 		"oAP": "\/build\/build",
 		"oF": 0
 		},
+	"\/confidential.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/confidential.html",
+		"oF": 0
+		},
 	"\/contact.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -278,6 +284,66 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/images\/projects\/confidential\/social-ambassador-1.jpg": {
+		"ft": 16384,
+		"iS": 330149,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/confidential\/social-ambassador-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/images\/projects\/confidential\/social-ambassador-2.jpg": {
+		"ft": 16384,
+		"iS": 417497,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/confidential\/social-ambassador-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/images\/projects\/confidential\/social-ambassador-3.jpg": {
+		"ft": 16384,
+		"iS": 401392,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/confidential\/social-ambassador-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/images\/projects\/confidential\/social-ambassador-4.jpg": {
+		"ft": 16384,
+		"iS": 360487,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/confidential\/social-ambassador-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/images\/projects\/confidential\/social-ambassador-5.jpg": {
+		"ft": 16384,
+		"iS": 376358,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/confidential\/social-ambassador-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/images\/projects\/confidential\/social-ambassador-hero.jpg": {
+		"ft": 16384,
+		"iS": 1330022,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/confidential\/social-ambassador-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -362,7 +428,7 @@
 	"displayValue": "wearenorth.design",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_gray",
-	"lastBuiltDate": 527748891
+	"lastBuiltDate": 528003565
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
