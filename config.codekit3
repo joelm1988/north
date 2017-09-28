@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "25900",
 "files": {
+	"\/abbvie.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/abbvie.html",
+		"oF": 0
+		},
 	"\/background.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -284,6 +290,72 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/images\/projects\/abbvie\/abbvie-1.png": {
+		"ft": 32768,
+		"iS": 1071483,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/abbvie\/abbvie-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/abbvie\/abbvie-2.png": {
+		"ft": 32768,
+		"iS": 1568716,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/abbvie\/abbvie-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/abbvie\/abbvie-3.png": {
+		"ft": 32768,
+		"iS": 518039,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/abbvie\/abbvie-3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/abbvie\/abbvie-4.png": {
+		"ft": 32768,
+		"iS": 1342365,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/abbvie\/abbvie-4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/abbvie\/abbvie-5.png": {
+		"ft": 32768,
+		"iS": 1674717,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/abbvie\/abbvie-5.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/abbvie\/abbvie-hero.png": {
+		"ft": 32768,
+		"iS": 1377472,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/abbvie\/abbvie-hero.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/images\/projects\/confidential\/social-ambassador-1.png": {
 		"ft": 32768,
 		"iS": 219270,
@@ -434,7 +506,7 @@
 	"displayValue": "wearenorth.design",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_gray",
-	"lastBuiltDate": 528021870
+	"lastBuiltDate": 528291631
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
