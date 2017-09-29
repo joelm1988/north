@@ -21,6 +21,12 @@
 		"oAP": "\/build\/background.html",
 		"oF": 0
 		},
+	"\/bayer.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/bayer.html",
+		"oF": 0
+		},
 	"\/build": {
 		"ft": 65536,
 		"oA": 1,
@@ -129,6 +135,12 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/finite.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/finite.html",
+		"oF": 0
 		},
 	"\/fonts\/din-condensed\/din-condensed.scss": {
 		"aP": 0,
@@ -356,6 +368,61 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/images\/projects\/bayer\/bayer-1.png": {
+		"ft": 32768,
+		"iS": 1381540,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/bayer\/bayer-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/bayer\/bayer-2.png": {
+		"ft": 32768,
+		"iS": 1396648,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/bayer\/bayer-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/bayer\/bayer-3.png": {
+		"ft": 32768,
+		"iS": 2168828,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/bayer\/bayer-3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/bayer\/bayer-4.png": {
+		"ft": 32768,
+		"iS": 282332,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/bayer\/bayer-4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/bayer\/bayer-hero.png": {
+		"ft": 32768,
+		"iS": 4007289,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/bayer\/bayer-hero.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/images\/projects\/confidential\/social-ambassador-1.png": {
 		"ft": 32768,
 		"iS": 219270,
@@ -422,6 +489,193 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/images\/projects\/finite\/finite-1.png": {
+		"ft": 32768,
+		"iS": 1293948,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/finite\/finite-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/finite\/finite-2.png": {
+		"ft": 32768,
+		"iS": 282462,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/finite\/finite-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/finite\/finite-3.png": {
+		"ft": 32768,
+		"iS": 1751756,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/finite\/finite-3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/finite\/finite-4.png": {
+		"ft": 32768,
+		"iS": 1340604,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/finite\/finite-4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/finite\/finite-5.png": {
+		"ft": 32768,
+		"iS": 290395,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/finite\/finite-5.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/finite\/finite-hero.png": {
+		"ft": 32768,
+		"iS": 2740561,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/finite\/finite-hero.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/kfc\/kfc-1.png": {
+		"ft": 32768,
+		"iS": 395137,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/kfc\/kfc-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/kfc\/kfc-2.png": {
+		"ft": 32768,
+		"iS": 948021,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/kfc\/kfc-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/kfc\/kfc-3.png": {
+		"ft": 32768,
+		"iS": 195411,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/kfc\/kfc-3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/kfc\/kfc-4.png": {
+		"ft": 32768,
+		"iS": 864403,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/kfc\/kfc-4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/kfc\/kfc-5.png": {
+		"ft": 32768,
+		"iS": 101627,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/kfc\/kfc-5.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/kfc\/kfc-hero.png": {
+		"ft": 32768,
+		"iS": 86226,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/kfc\/kfc-hero.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/nike\/nike-1.png": {
+		"ft": 32768,
+		"iS": 357555,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/nike\/nike-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/nike\/nike-2.png": {
+		"ft": 32768,
+		"iS": 1295677,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/nike\/nike-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/nike\/nike-3.png": {
+		"ft": 32768,
+		"iS": 1421977,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/nike\/nike-3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/nike\/nike-4.png": {
+		"ft": 32768,
+		"iS": 1549605,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/nike\/nike-4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/nike\/nike-hero.png": {
+		"ft": 32768,
+		"iS": 2579419,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/nike\/nike-hero.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -468,6 +722,18 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/kfc.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/kfc.html",
+		"oF": 0
+		},
+	"\/nike.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/nike.html",
+		"oF": 0
+		},
 	"\/project.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -506,7 +772,7 @@
 	"displayValue": "wearenorth.design",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_gray",
-	"lastBuiltDate": 528291631
+	"lastBuiltDate": 528361619
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
