@@ -555,6 +555,72 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/images\/projects\/keynote\/keynote-1.png": {
+		"ft": 32768,
+		"iS": 504655,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/keynote\/keynote-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/keynote\/keynote-2.png": {
+		"ft": 32768,
+		"iS": 614919,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/keynote\/keynote-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/keynote\/keynote-3.png": {
+		"ft": 32768,
+		"iS": 533284,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/keynote\/keynote-3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/keynote\/keynote-4.png": {
+		"ft": 32768,
+		"iS": 441888,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/keynote\/keynote-4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/keynote\/keynote-5.png": {
+		"ft": 32768,
+		"iS": 945877,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/keynote\/keynote-5.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/projects\/keynote\/keynote-hero.png": {
+		"ft": 32768,
+		"iS": 1030830,
+		"oA": 0,
+		"oAP": "\/build\/images\/projects\/keynote\/keynote-hero.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/images\/projects\/kfc\/kfc-1.png": {
 		"ft": 32768,
 		"iS": 395137,
@@ -722,6 +788,12 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/keynote.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/keynote.html",
+		"oF": 0
+		},
 	"\/kfc.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -772,7 +844,7 @@
 	"displayValue": "wearenorth.design",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_gray",
-	"lastBuiltDate": 529221694
+	"lastBuiltDate": 529497385
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
